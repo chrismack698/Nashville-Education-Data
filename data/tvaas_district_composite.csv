@@ -1,147 +1,141 @@
 District Number,District Name,Overall Composite,Literacy Composite,Numeracy Composite,Literacy and Numeracy Composite,Social Studies Composite
-10,Anderson County,5,5,5,5,1
-11,Clinton,5,3,5,5,5
-12,Oak Ridge,5,5,5,5,1
-20,Bedford County,2,3,1,1,5
-30,Benton County,3,2,4,3,5
-40,Bledsoe County,2,3,3,3,1
-50,Blount County,1,1,1,1,5
-51,Alcoa,5,2,5,5,3
-52,Maryville City,5,5,5,5,5
-60,Bradley County,1,1,2,1,1
-61,Cleveland,4,5,1,3,5
-70,Campbell County,3,4,5,5,1
-80,Cannon County,1,3,1,1,1
-92,Hollow Rock - Bruceton,1,2,2,1,1
+171,Alamo City School District,5,5,5,5,4
+51,Alcoa City School District,5,2,5,5,3
+10,Anderson County School District,5,5,5,5,1
+793,Arlington Community School District,1,1,3,1,1
+541,Athens City Schools,5,3,5,5,4
+794,Bartlett City School District,5,5,5,5,5
+20,Bedford County School District,2,3,1,1,5
+172,Bells City School District,3,3,3,3,NA
+30,Benton County School District,3,2,4,3,5
+40,Bledsoe County School District,2,3,3,3,1
+50,Blount County School District,1,1,1,1,5
+274,Bradford Special School District,3,1,3,2,5
+60,Bradley County School District,1,1,2,1,1
+821,Bristol City School District,5,5,5,5,5
+70,Campbell County School District,3,4,5,5,1
+80,Cannon County School District,1,3,1,1,1
+100,Carter County School District,5,3,5,5,5
+110,Cheatham County School District,3,4,3,3,3
+120,Chester County School District,5,4,5,5,2
+130,Claiborne County School District,3,3,3,3,3
+140,Clay County School District,2,3,1,2,1
+61,Cleveland City School District,4,5,1,3,5
+11,Clinton City School District,5,3,5,5,5
+150,Cocke County School District,1,1,1,1,2
+160,Coffee County School District,1,3,1,1,1
+795,Collierville School District,5,5,5,5,5
+170,Crockett County School District,1,1,1,1,5
+180,Cumberland County School District,3,5,2,3,2
+190,Metropolitan Nashville Public School District,3,4,5,5,1
+721,Dayton City Elementary School District,5,5,5,5,4
+200,Decatur County School District,3,2,4,3,2
+210,DeKalb County School District,1,1,2,1,1
+220,Dickson County School District,5,3,5,4,5
+230,Dyer County School District,3,1,4,2,3
+231,Dyersburg City School District,5,3,5,4,5
+101,Elizabethton City School District,3,2,3,2,5
+542,Etowah City School District,5,4,5,5,1
+240,Fayette County School District,5,5,5,5,1
+521,Fayetteville City School District,3,3,5,5,1
+250,Fentress County School District,1,3,1,2,3
+260,Franklin Special School District,3,3,3,3,1
+941,Franklin County School District,5,1,5,3,5
+796,Germantown Municipal School District,5,4,3,3,5
+275,Gibson County School District,5,4,5,5,3
+280,Giles County School District,3,3,3,3,2
+290,Grainger County School District,3,5,3,3,2
+300,Greene County School District,5,5,5,5,5
+301,Greeneville City School District,2,1,2,1,3
+310,Grundy County School District,4,3,3,3,5
+320,Hamblen County School District,5,3,5,5,5
+330,Hamilton County School District,5,5,5,5,5
+340,Hancock County School District,1,3,1,1,5
+350,Hardeman County School District,1,1,1,1,1
+360,Hardin County School District,5,1,5,4,5
+370,Hawkins County School District,1,1,1,1,1
+380,Haywood County School District,2,3,1,2,2
+390,Henderson County School District,5,5,5,5,3
+400,Henry County School District,3,2,3,3,3
+410,Hickman County School District,1,1,1,1,3
+92,Hollow Rock-Bruceton Special School District,1,2,2,1,1
+420,Houston County School District,1,4,1,1,3
+271,Humboldt City School District,1,1,1,1,2
+430,Humphreys County School District,1,5,1,1,1
 93,Huntingdon Special School District,1,2,1,1,5
-94,McKenzie,5,3,4,3,5
-95,South Carroll,1,3,1,1,1
-97,West Carroll Sp Dist,1,1,1,1,1
-100,Carter County,5,3,5,5,5
-101,Elizabethton,3,2,3,2,5
-110,Cheatham County,3,4,3,3,3
-120,Chester County,5,4,5,5,2
-130,Claiborne County,3,3,3,3,3
-140,Clay County,2,3,1,2,1
-150,Cocke County,1,1,1,1,2
-151,Newport,1,2,1,1,5
-160,Coffee County,1,3,1,1,1
-161,Manchester,1,2,1,1,3
-162,Tullahoma,2,3,3,3,1
-170,Crockett County,1,1,1,1,5
-171,Alamo,5,5,5,5,4
-172,Bells,3,3,3,3,NA
-180,Cumberland County,3,5,2,3,2
-190,Davidson County,3,4,5,5,1
-200,Decatur County,3,2,4,3,2
-210,DeKalb County,1,1,2,1,1
-220,Dickson County,5,3,5,4,5
-230,Dyer County,3,1,4,2,3
-231,Dyersburg,5,3,5,4,5
-240,Fayette County,5,5,5,5,1
-250,Fentress County,1,3,1,2,3
-260,Franklin County,3,3,3,3,1
-271,Humboldt City,1,1,1,1,2
-272,Milan,3,1,3,3,5
-273,Trenton,1,1,1,1,2
-274,Bradford,3,1,3,2,5
-275,Gibson Co Sp Dist,5,4,5,5,3
-280,Giles County,3,3,3,3,2
-290,Grainger County,3,5,3,3,2
-300,Greene County,5,5,5,5,5
-301,Greeneville,2,1,2,1,3
-310,Grundy County,4,3,3,3,5
-320,Hamblen County,5,3,5,5,5
-330,Hamilton County,5,5,5,5,5
-340,Hancock County,1,3,1,1,5
-350,Hardeman County Schools,1,1,1,1,1
-360,Hardin County,5,1,5,4,5
-370,Hawkins County,1,1,1,1,1
-371,Rogersville,4,4,4,5,3
-380,Haywood County,2,3,1,2,2
-390,Henderson County,5,5,5,5,3
-391,Lexington,3,3,3,3,4
-400,Henry County,3,2,3,3,3
-401,Paris,5,3,5,5,4
-410,Hickman County,1,1,1,1,3
-420,Houston County,1,4,1,1,3
-430,Humphreys County,1,5,1,1,1
-440,Jackson County,1,1,1,1,1
-450,Jefferson County,5,5,3,5,3
-460,Johnson County,4,2,3,3,5
-470,Knox County,5,5,1,3,5
-480,Lake County,3,3,3,3,3
-490,Lauderdale County,1,1,1,1,3
-500,Lawrence County,1,1,3,1,1
-510,Lewis County,1,3,1,1,1
-520,Lincoln County,3,3,2,3,2
-521,Fayetteville,3,3,5,5,1
-530,Loudon County,5,3,5,5,3
-531,Lenoir City,5,5,5,5,1
-540,McMinn County,3,1,2,1,5
-541,Athens,5,3,5,5,4
-542,Etowah,5,4,5,5,1
-550,McNairy County,1,2,2,2,1
-560,Macon County,3,3,1,1,5
-570,Madison County,1,1,1,1,1
-580,Marion County,1,2,1,1,2
-581,Richard City,3,4,4,4,2
-590,Marshall County,1,3,3,3,1
-600,Maury County,1,1,1,1,1
-610,Meigs County,1,2,1,1,3
-620,Monroe County,5,4,4,5,5
-621,Sweetwater,1,1,1,1,2
-630,Montgomery County,1,1,1,1,5
-640,Moore County,3,3,3,3,5
-650,Morgan County,1,2,1,1,1
-660,Obion County,1,1,2,1,2
-661,Union City,5,3,5,5,3
-670,Overton County,1,1,2,1,3
-680,Perry County,1,1,1,1,1
-690,Pickett County,2,2,3,2,3
-700,Polk County,5,3,4,3,5
-710,Putnam County,2,5,1,3,1
-720,Rhea County,2,1,3,2,3
-721,Dayton,5,5,5,5,4
-730,Roane County,5,5,3,5,5
-740,Robertson County,3,4,3,4,2
-750,Rutherford County,5,5,5,5,5
-751,Murfreesboro,5,5,5,5,4
-760,Scott County,3,5,4,5,2
-761,Oneida,4,2,3,3,5
-770,Sequatchie County,3,1,1,1,5
-780,Sevier County,5,5,5,5,5
-792,Shelby County (New),1,1,1,1,1
-793,Arlington,1,1,3,1,1
-794,Bartlett,5,5,5,5,5
-795,Collierville,5,5,5,5,5
-796,Germantown,5,4,3,3,5
-797,Lakeland,5,5,5,5,5
-798,Millington Municipal Schools,1,3,1,1,1
-800,Smith County,1,3,3,3,1
-810,Stewart County,1,3,1,1,1
-820,Sullivan County,4,5,1,4,4
-821,Bristol,5,5,5,5,5
-822,Kingsport,5,5,5,5,5
-830,Sumner County,5,5,5,5,5
-840,Tipton County,5,2,5,5,4
-850,Trousdale County,5,5,5,5,5
-860,Unicoi County,1,2,1,1,3
-870,Union County,1,1,1,1,1
-880,Van Buren County,5,2,5,5,2
-890,Warren County,1,1,1,1,5
-900,Washington County,5,5,3,5,5
-901,Johnson City,5,3,5,5,5
-910,Wayne County,3,5,1,4,1
-920,Weakley County,4,3,5,4,3
-930,White County,1,1,1,1,3
-940,Williamson County,5,5,5,5,5
-941,Franklin SSD,5,1,5,3,5
-950,Wilson County,5,5,5,5,5
-951,Lebanon,1,2,1,1,5
-961,Alvin C York Institute,5,5,5,5,5
-963,Tennessee School for Blind,3,NA,3,3,NA
-964,Tennessee School for the Deaf,1,2,2,1,NA
-970,Department of Children's Services Ed. Division,1,1,1,1,1
-985,Achievement School District,1,2,2,2,1
-986,Tennessee State Board of Education,5,5,5,5,NA
+440,Jackson County School District,1,1,1,1,1
+450,Jefferson County School District,5,5,3,5,3
+901,Johnson City School District,5,3,5,5,5
+460,Johnson County School District,4,2,3,3,5
+822,Kingsport City School District,5,5,5,5,5
+470,Knox County School District,5,5,1,3,5
+480,Lake County School District,3,3,3,3,3
+797,Lakeland School System District,5,5,5,5,5
+490,Lauderdale County School District,1,1,1,1,3
+500,Lawrence County School District,1,1,3,1,1
+951,Lebanon Special School District,1,2,1,1,5
+531,Lenoir City School District,5,5,5,5,1
+510,Lewis County School District,1,3,1,1,1
+391,Lexington City School District,3,3,3,3,4
+520,Lincoln County School District,3,3,2,3,2
+530,Loudon County School District,5,3,5,5,3
+560,Macon County School District,3,3,1,1,5
+570,Jackson-Madison County School System,1,1,1,1,1
+161,Manchester City School District,1,2,1,1,3
+580,Marion County School District,1,2,1,1,2
+590,Marshall County School District,1,3,3,3,1
+52,Maryville City School District,5,5,5,5,5
+600,Maury County School District,1,1,1,1,1
+94,McKenzie Special School District,5,3,4,3,5
+540,McMinn County School District,3,1,2,1,5
+550,McNairy County School District,1,2,2,2,1
+610,Meigs County School District,1,2,1,1,3
+272,Milan Special School District,3,1,3,3,5
+798,Millington Municipal School District,1,3,1,1,1
+620,Monroe County School District,5,4,4,5,5
+630,Clarksville-Montgomery County School System,1,1,1,1,5
+640,Moore County School District,3,3,3,3,5
+650,Morgan County School District,1,2,1,1,1
+751,Murfreesboro City School District,5,5,5,5,4
+151,Newport City School District,1,2,1,1,5
+12,Oak Ridge City School District,5,5,5,5,1
+660,Obion County School District,1,1,2,1,2
+761,Oneida Special School District,4,2,3,3,5
+670,Overton County School District,1,1,2,1,3
+401,Paris Special School District,5,3,5,5,4
+680,Perry County School District,1,1,1,1,1
+690,Pickett County School District,2,2,3,2,3
+700,Polk County School District,5,3,4,3,5
+710,Putnam County School District,2,5,1,3,1
+720,Rhea County School District,2,1,3,2,3
+581,Richard City Special School District,3,4,4,4,2
+730,Roane County School District,5,5,3,5,5
+740,Robertson County School District,3,4,3,4,2
+371,Rogersville City Schools,4,4,4,5,3
+750,Rutherford County School District,5,5,5,5,5
+760,Scott County School District,3,5,4,5,2
+770,Sequatchie County School District,3,1,1,1,5
+780,Sevier County School District,5,5,5,5,5
+792,Shelby County School District,1,1,1,1,1
+800,Smith County School District,1,3,3,3,1
+95,South Carroll Special School District,1,3,1,1,1
+810,Stewart County School District,1,3,1,1,1
+820,Sullivan County School District,4,5,1,4,4
+830,Sumner County School District,5,5,5,5,5
+621,Sweetwater City School District,1,1,1,1,2
+840,Tipton County School District,5,2,5,5,4
+273,Trenton Special School District,1,1,1,1,2
+850,Trousdale County School District,5,5,5,5,5
+162,Tullahoma City School District,2,3,3,3,1
+860,Unicoi County School District,1,2,1,1,3
+661,Union City School District,5,3,5,5,3
+870,Union County School District,1,1,1,1,1
+880,Van Buren County School District,5,2,5,5,2
+890,Warren County School District,1,1,1,1,5
+900,Washington County School District,5,5,3,5,5
+910,Wayne County School District,3,5,1,4,1
+920,Weakley County School District,4,3,5,4,3
+97,West Carroll Special District,1,1,1,1,1
+930,White County School District,1,1,1,1,3
+940,Williamson County School District,5,5,5,5,5
+950,Wilson County School District,5,5,5,5,5
