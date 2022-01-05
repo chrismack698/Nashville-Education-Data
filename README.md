@@ -2,11 +2,11 @@
 _Do better-paid teachers make higher-achieving students?_
 
 ## Table of Contents
-- [Motivation] (#Motivation)
-- [Data Question] (#Data-Question)
-- [Research and Findings] (#Research-and-Findings)
-- [Challenges and Further Research] (#Challenge-and-Further-Research)
-- [Technologies and Data Sources] (#Technologies-and-Data-Sources)
+- [Motivation] (#motivation)
+- [Data Question] (#data-question)
+- [Research and Findings] (#research-and-findings)
+- [Challenges and Further Research] (#challenge-and-further-research)
+- [Technologies and Data Sources] (#technologies-and-data-sources)
 
 ## Motivation
 To put it simply, my wife and I are heavily involved in education; she's a middle school social studies teacher, and I've spent all of my career so far working in higher education. Because of this, we both have a passion and natural curiosity for learning and teaching. Ultimately, through this project, I wanted to explore issues that are near and dear to most teachers: student success and wage suppression. If you live in the U.S., you've more than likely heard the stories—teacher walkouts nationwide due to low salaries. Through this project, I hoped to gain some insight on this complicated issue.
